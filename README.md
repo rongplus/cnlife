@@ -16,5 +16,5 @@ this uses a simple SQLite database, but you can easily replace it with whatever 
 2. Run the app
 
    ```
-   $ streamlit run home.py
+   $ streamlit run streamlit_app.py
    ```
